@@ -13,7 +13,7 @@ int datta(void) {
     double a, b, h, x, sum = 0, answer;
     printf("Enter Number of Sub-Intervals --> ");
     scanf("%d", &n);
-    printf("Enter initial limit --> ");
+    printf("Enter initial limit -->   ");
     scanf("%lf", &a);
     printf("Enter Final limit --> ");
     scanf("%lf", &b);
