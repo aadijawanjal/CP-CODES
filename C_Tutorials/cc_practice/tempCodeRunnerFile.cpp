@@ -1,0 +1,1 @@
+abs(ginti1 - ginti2)

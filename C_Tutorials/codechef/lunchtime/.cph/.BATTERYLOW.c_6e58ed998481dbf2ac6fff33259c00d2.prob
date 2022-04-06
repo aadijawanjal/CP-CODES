@@ -1,0 +1,1 @@
+{"name":"Local: BATTERYLOW","url":"d:\\Coding\\C_Tutorials\\codechef\\lunchtime\\BATTERYLOW.c","tests":[{"id":1646145188502,"input":"3\n15\n3\n65","output":"Yes\nYes\nNo"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\C_Tutorials\\codechef\\lunchtime\\BATTERYLOW.c","group":"local","local":true}

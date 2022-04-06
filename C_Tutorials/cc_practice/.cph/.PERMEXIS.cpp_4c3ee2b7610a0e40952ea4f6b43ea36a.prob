@@ -1,0 +1,1 @@
+{"name":"Local: PERMEXIS","url":"d:\\Coding\\C_Tutorials\\cc_practice\\PERMEXIS.cpp","tests":[{"id":1646569238596,"input":"2\n4\n3 2 2 3 \n2\n1 5\n","output":"Yes\nNo"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\C_Tutorials\\cc_practice\\PERMEXIS.cpp","group":"local","local":true}

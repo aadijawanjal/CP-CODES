@@ -1,0 +1,1 @@
+{"name":"Local: off4","url":"d:\\Coding\\C_Tutorials\\codechef\\cookoff\\off4.c","tests":[{"id":1645455047772,"input":"1\n8 15\n2 2 2 5 5 5 5 5","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\C_Tutorials\\codechef\\cookoff\\off4.c","group":"local","local":true}

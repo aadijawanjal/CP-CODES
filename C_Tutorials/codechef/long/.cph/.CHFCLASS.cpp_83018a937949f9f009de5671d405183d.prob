@@ -1,0 +1,1 @@
+{"name":"Local: CHFCLASS","url":"d:\\Coding\\C_Tutorials\\codechef\\long\\CHFCLASS.cpp","tests":[{"id":1647099042938,"input":"7\n5\n6\n8\n22\n12\n48\n56","output":"0\n1\n1\n3\n1\n7\n8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\C_Tutorials\\codechef\\long\\CHFCLASS.cpp","group":"local","local":true}

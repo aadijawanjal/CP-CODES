@@ -1,0 +1,1 @@
+{"name":"Local: PRODUCT","url":"d:\\Coding\\C_Tutorials\\codechef\\Starters\\PRODUCT.c","tests":[{"id":1645628862089,"input":"2\n1000000000 1000000000\n8 12","output":"1\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\C_Tutorials\\codechef\\Starters\\PRODUCT.c","group":"local","local":true}

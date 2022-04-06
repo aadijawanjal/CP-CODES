@@ -1,0 +1,1 @@
+{"name":"Local: 4","url":"d:\\Coding\\C_Tutorials\\hackerrank\\Coding soul\\4.c","tests":[{"id":1645805735296,"input":"2\n5\n10101\n5\n10001","output":"-1 3\n1 5\n3 -1\n-1 5\n1 -1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\C_Tutorials\\hackerrank\\Coding soul\\4.c","group":"local","local":true}

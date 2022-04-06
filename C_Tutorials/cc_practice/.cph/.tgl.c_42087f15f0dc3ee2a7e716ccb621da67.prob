@@ -1,0 +1,1 @@
+{"name":"Local: tgl","url":"d:\\Coding\\C_Tutorials\\cc_practice\\tgl.c","tests":[{"id":1644767840665,"input":"10\n54 100\n100 56\n1000 0\n1 2\n2 3\n2 4\n10 20\n30 80\n60 12\n90 170\n","output":"1 1000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\C_Tutorials\\cc_practice\\tgl.c","group":"local","local":true}

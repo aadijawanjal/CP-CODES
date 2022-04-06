@@ -1,0 +1,1 @@
+{"name":"Local: LONGSEQ","url":"d:\\Coding\\C_Tutorials\\cc_practice\\LONGSEQ.cpp","tests":[{"id":1646460255939,"input":"3\n101\n11\n1111000\n","output":"Yes\nNo\nNo"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\C_Tutorials\\cc_practice\\LONGSEQ.cpp","group":"local","local":true}

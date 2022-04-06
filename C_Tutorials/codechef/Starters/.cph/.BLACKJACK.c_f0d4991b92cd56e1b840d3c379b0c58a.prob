@@ -1,0 +1,1 @@
+{"name":"Local: BLACKJACK","url":"d:\\Coding\\C_Tutorials\\codechef\\Starters\\BLACKJACK.c","tests":[{"id":1645628330237,"input":"3\n1 10\n1 5\n4 9","output":"10\n-1\n8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\C_Tutorials\\codechef\\Starters\\BLACKJACK.c","group":"local","local":true}

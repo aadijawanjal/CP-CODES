@@ -1,0 +1,1 @@
+{"name":"Local: BINSTRING","url":"d:\\Coding\\C_Tutorials\\codechef\\Starters\\BINSTRING.c","tests":[{"id":1645634133831,"input":"3\n3\n100\n4\n1111\n5\n10110","output":"2\n1\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\C_Tutorials\\codechef\\Starters\\BINSTRING.c","group":"local","local":true}

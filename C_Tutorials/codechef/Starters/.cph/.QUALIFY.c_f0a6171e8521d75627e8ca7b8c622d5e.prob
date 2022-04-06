@@ -1,0 +1,1 @@
+{"name":"Local: QUALIFY","url":"d:\\Coding\\C_Tutorials\\codechef\\Starters\\QUALIFY.c","tests":[{"id":1646232757667,"input":"3\n5 1 2\n10 0 5\n15 1 2","output":"Qualify\nQualify\nNotQualify"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\C_Tutorials\\codechef\\Starters\\QUALIFY.c","group":"local","local":true}

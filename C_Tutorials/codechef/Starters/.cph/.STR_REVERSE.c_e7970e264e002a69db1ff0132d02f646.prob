@@ -1,0 +1,1 @@
+{"name":"Local: STR_REVERSE","url":"d:\\Coding\\C_Tutorials\\codechef\\Starters\\STR_REVERSE.c","tests":[{"id":1645636198178,"input":"2\nabdeba\ncodechef","output":"3\n7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\C_Tutorials\\codechef\\Starters\\STR_REVERSE.c","group":"local","local":true}

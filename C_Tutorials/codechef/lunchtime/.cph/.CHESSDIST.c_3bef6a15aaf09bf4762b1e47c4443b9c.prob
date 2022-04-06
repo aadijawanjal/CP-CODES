@@ -1,0 +1,1 @@
+{"name":"Local: CHESSDIST","url":"d:\\Coding\\C_Tutorials\\codechef\\lunchtime\\CHESSDIST.c","tests":[{"id":1646145505853,"input":"3\n2 4 5 1\n5 5 5 3\n1 4 3 3","output":"3\n2\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\C_Tutorials\\codechef\\lunchtime\\CHESSDIST.c","group":"local","local":true}

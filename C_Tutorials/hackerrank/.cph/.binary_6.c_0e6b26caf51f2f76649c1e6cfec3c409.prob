@@ -1,0 +1,1 @@
+{"name":"Local: binary_6","url":"d:\\Coding\\C_Tutorials\\hackerrank\\binary_6.c","tests":[{"id":1644771568614,"input":"2\n010001\n001101111","output":"13\n8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\C_Tutorials\\hackerrank\\binary_6.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: ECOCLASS","url":"d:\\Coding\\C_Tutorials\\codechef\\Starters\\ECOCLASS.cpp","tests":[{"id":1648046330055,"input":"2\n4\n1 2 3 4\n2 1 3 4\n4\n1 1 2 2\n1 2 1 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\C_Tutorials\\codechef\\Starters\\ECOCLASS.cpp","group":"local","local":true}

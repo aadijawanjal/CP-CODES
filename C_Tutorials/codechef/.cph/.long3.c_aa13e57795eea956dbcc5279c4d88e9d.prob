@@ -1,0 +1,1 @@
+{"name":"Local: long3","url":"d:\\Coding\\C_Tutorials\\codechef\\long3.c","tests":[{"id":1644756295163,"input":"3\n3\n2 4 5\n3\n4 1 3\n4\n3 2 4 2","output":"0\n1\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\C_Tutorials\\codechef\\long3.c","group":"local","local":true}

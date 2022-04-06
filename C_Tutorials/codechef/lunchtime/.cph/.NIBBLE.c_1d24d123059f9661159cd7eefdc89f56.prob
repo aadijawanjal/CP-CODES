@@ -1,0 +1,1 @@
+{"name":"Local: NIBBLE","url":"d:\\Coding\\C_Tutorials\\codechef\\lunchtime\\NIBBLE.c","tests":[{"id":1646145979735,"input":"4\n8\n17\n52\n3\n","output":"Good\nNot Good\nGood\nNot Good\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\C_Tutorials\\codechef\\lunchtime\\NIBBLE.c","group":"local","local":true}
