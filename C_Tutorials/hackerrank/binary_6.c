@@ -24,6 +24,7 @@ int datta() {
             } 
         }
         printf("%lld\n",x);
+printf("aadi bahi");
     }
     
     return 0;
